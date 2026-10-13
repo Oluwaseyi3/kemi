@@ -7,7 +7,8 @@ const NOTES: string[] = [
   'I love how you spend time with me.',
   "You're an amazing and beautiful lover.",
   'I want to build a family with you, forever.',
-  'I love you.',
+  "I can't wait to make cute babies with you.",
+  "I'm loving this phase of our relationship, on the way to marriage.",
 ]
 
 function pickNext(prev: number, length: number) {
